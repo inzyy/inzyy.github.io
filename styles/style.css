@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+    background-color: #303;
+	color: #CCC;
+	font-size: 24px;
+	font-family: Garamond, "Minion Pro";
+	text-align: center;
+}
+.header {
+	font-size: 45px;
+	text-align: center;
+	text-color: #C33;
+	padding: 10px;
+	font-family: Castellar, Garamond, "Minion Pro";
+}
+a{
+	align: center;
+	font-size: 24px;
+	button-color: #069;
+	color: #CCC;
+}
+.choices {
+	align: center;
+	padding: 20px;
+	font-family: "Minion Pro";
+}
+button {
+	background-color: #36C;
+}
